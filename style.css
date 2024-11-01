@@ -22,12 +22,19 @@ h1 {
     background-color: #E0F7FA; /* Fundo azul-claro */
 }
 
-/* Estilo para os Títulos 2, 3 e 4 */
-.titulo-estilo2,
-.titulo-estilo3,
+.titulo-estilo2 {
+    color: #056b0a; /* Cor azul */
+    background-color: #6ffb68; /* Fundo azul-claro */
+}
+
+.titulo-estilo3 {
+    color: #fa9600; /* Cor azul */
+    background-color: #fdfaa2; /* Fundo azul-claro */
+}
+
 .titulo-estilo4 {
-    color: #4CAF50; /* Cor verde */
-    background-color: #E8F5E9; /* Fundo verde-claro */
+    color: #ad0101; /* Cor azul */
+    background-color: #f29797; /* Fundo azul-claro */
 }
 
 /* Estilo para os Textos */
